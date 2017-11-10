@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseStorage</string>
+    <array name="genarray">
+        <item>samir</item>
+        <item>rahul</item>
+        <item>amit</item>
+    <item>sami</item>
+    </array>
+</resources>
